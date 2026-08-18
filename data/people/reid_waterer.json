@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_reid_waterer",
+  "name": "Reid Waterer",
+  "external_ids": {
+    "wikidata": "Q113576074",
+    "imdb": "nm1191464"
+  },
+  "last_updated": "2026-08-18"
+}

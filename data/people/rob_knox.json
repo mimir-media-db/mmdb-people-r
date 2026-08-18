@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_rob_knox",
+  "name": "Rob Knox",
+  "external_ids": {
+    "wikidata": "Q438704",
+    "imdb": "nm2527061"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1989,
+  "death_year": 2008
+}

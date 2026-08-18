@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rex_piano",
+  "name": "Rex Piano",
+  "external_ids": {
+    "wikidata": "Q2147084",
+    "imdb": "nm0681247"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}

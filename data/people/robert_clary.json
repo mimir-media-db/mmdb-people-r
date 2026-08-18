@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_robert_clary",
+  "name": "Robert Clary",
+  "external_ids": {
+    "wikidata": "Q316670",
+    "imdb": "nm0165145"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1926,
+  "death_year": 2022
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_r_kelly",
+  "name": "R. Kelly",
+  "external_ids": {
+    "wikidata": "Q273055",
+    "imdb": "nm0005084"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

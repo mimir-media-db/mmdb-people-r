@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ronald_pickup",
+  "name": "Ronald Pickup",
+  "external_ids": {
+    "wikidata": "Q4356744",
+    "imdb": "nm0681975"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1940,
+  "death_year": 2021
+}

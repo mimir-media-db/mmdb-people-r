@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rupert_friend",
+  "name": "Rupert Friend",
+  "external_ids": {
+    "wikidata": "Q314659",
+    "imdb": "nm1670029"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1981
+}

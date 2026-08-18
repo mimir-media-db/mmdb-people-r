@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_roger_robinson",
+  "name": "Roger Robinson",
+  "external_ids": {
+    "wikidata": "Q7358844",
+    "imdb": "nm0733051"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1940,
+  "death_year": 2018
+}

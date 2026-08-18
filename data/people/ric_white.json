@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_ric_white",
+  "name": "Ric White",
+  "external_ids": {
+    "wikidata": "Q113623184",
+    "imdb": "nm1770353"
+  },
+  "last_updated": "2026-08-18"
+}
