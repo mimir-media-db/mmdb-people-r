@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_robert_lang",
+  "name": "Robert Lang",
+  "external_ids": {
+    "wikidata": "Q7346701",
+    "imdb": "nm0485894"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1934,
+  "death_year": 2004
+}

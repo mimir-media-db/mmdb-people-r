@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rosemary_blight",
+  "name": "Rosemary Blight",
+  "external_ids": {
+    "wikidata": "Q7368315",
+    "imdb": "nm0088414"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}

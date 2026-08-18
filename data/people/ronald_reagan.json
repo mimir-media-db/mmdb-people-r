@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ronald_reagan",
+  "name": "Ronald Reagan",
+  "external_ids": {
+    "wikidata": "Q9960",
+    "imdb": "nm0001654"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1911,
+  "death_year": 2004
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ron_glass",
+  "name": "Ron Glass",
+  "external_ids": {
+    "wikidata": "Q951335",
+    "imdb": "nm0322002"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1945,
+  "death_year": 2016
+}

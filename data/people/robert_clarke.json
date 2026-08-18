@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_robert_clarke",
+  "name": "Robert Clarke",
+  "external_ids": {
+    "wikidata": "Q7342955",
+    "imdb": "nm0164967"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1920,
+  "death_year": 2005
+}
