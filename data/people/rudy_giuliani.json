@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rudy_giuliani",
+  "name": "Rudy Giuliani",
+  "external_ids": {
+    "wikidata": "Q212648",
+    "imdb": "nm0321320"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1944
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ralph_bakshi",
+  "name": "Ralph Bakshi",
+  "external_ids": {
+    "wikidata": "Q315441",
+    "imdb": "nm0000835"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1938
+}

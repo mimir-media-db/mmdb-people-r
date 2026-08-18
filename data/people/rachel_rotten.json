@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rachel_rotten",
+  "name": "Rachel Rotten",
+  "external_ids": {
+    "wikidata": "Q4398684",
+    "imdb": "nm1468992"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1983
+}

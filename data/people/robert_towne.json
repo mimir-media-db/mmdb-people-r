@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_robert_towne",
+  "name": "Robert Towne",
+  "external_ids": {
+    "wikidata": "Q721922",
+    "imdb": "nm0001801"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1934,
+  "death_year": 2024
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_randy_spelling",
+  "name": "Randy Spelling",
+  "external_ids": {
+    "wikidata": "Q1367182",
+    "imdb": "nm0005456"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1978
+}

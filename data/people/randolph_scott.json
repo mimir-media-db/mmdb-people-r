@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_randolph_scott",
+  "name": "Randolph Scott",
+  "external_ids": {
+    "wikidata": "Q295984",
+    "imdb": "nm0000068"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1898,
+  "death_year": 1987
+}
