@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_richard_gere",
+  "name": "Richard Gere",
+  "external_ids": {
+    "wikidata": "Q48410",
+    "imdb": "nm0000152"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1949
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rainn_wilson",
+  "name": "Rainn Wilson",
+  "external_ids": {
+    "wikidata": "Q349548",
+    "imdb": "nm0933988"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1966
+}

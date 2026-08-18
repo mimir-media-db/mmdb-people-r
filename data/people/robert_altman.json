@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_robert_altman",
+  "name": "Robert Altman",
+  "external_ids": {
+    "wikidata": "Q55163",
+    "imdb": "nm0000265"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1925,
+  "death_year": 2006
+}

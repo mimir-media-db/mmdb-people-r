@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rufus",
+  "name": "Rufus",
+  "external_ids": {
+    "wikidata": "Q715111",
+    "imdb": "nm0749363"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1942
+}

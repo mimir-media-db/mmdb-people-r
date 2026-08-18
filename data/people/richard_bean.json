@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_richard_bean",
+  "name": "Richard Bean",
+  "external_ids": {
+    "wikidata": "Q15973588",
+    "imdb": "nm0063806"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}

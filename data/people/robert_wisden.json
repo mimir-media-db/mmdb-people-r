@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_robert_wisden",
+  "name": "Robert Wisden",
+  "external_ids": {
+    "wikidata": "Q7351191",
+    "imdb": "nm0936288"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}

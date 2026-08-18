@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rosemary_radcliffe",
+  "name": "Rosemary Radcliffe",
+  "external_ids": {
+    "wikidata": "Q7368417",
+    "imdb": "nm0705374"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1948
+}

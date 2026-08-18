@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rick_hoffman",
+  "name": "Rick Hoffman",
+  "external_ids": {
+    "wikidata": "Q3431553",
+    "imdb": "nm0389069"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

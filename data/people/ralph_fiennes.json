@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ralph_fiennes",
+  "name": "Ralph Fiennes",
+  "external_ids": {
+    "wikidata": "Q28493",
+    "imdb": "nm0000146"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}

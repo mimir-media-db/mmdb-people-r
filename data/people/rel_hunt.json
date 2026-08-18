@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rel_hunt",
+  "name": "Rel Hunt",
+  "external_ids": {
+    "wikidata": "Q7310672",
+    "imdb": "nm0402610"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974
+}

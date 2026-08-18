@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_robin_williams",
+  "name": "Robin Williams",
+  "external_ids": {
+    "wikidata": "Q83338",
+    "imdb": "nm0000245"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1951,
+  "death_year": 2014
+}

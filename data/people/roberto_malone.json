@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_roberto_malone",
+  "name": "Roberto Malone",
+  "external_ids": {
+    "wikidata": "Q1291882",
+    "imdb": "nm0540504"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

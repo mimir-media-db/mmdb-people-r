@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_roger_frappier",
+  "name": "Roger Frappier",
+  "external_ids": {
+    "wikidata": "Q3438982",
+    "imdb": "nm0292024"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1945
+}

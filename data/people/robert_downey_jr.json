@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_robert_downey_jr",
+  "name": "Robert Downey Jr.",
+  "external_ids": {
+    "wikidata": "Q165219",
+    "imdb": "nm0000375"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

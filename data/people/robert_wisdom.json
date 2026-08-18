@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_robert_wisdom",
+  "name": "Robert Wisdom",
+  "external_ids": {
+    "wikidata": "Q320973",
+    "imdb": "nm0936298"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1953
+}

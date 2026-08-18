@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rosie_odonnell",
+  "name": "Rosie O'Donnell",
+  "external_ids": {
+    "wikidata": "Q272929",
+    "imdb": "nm0005280"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1962
+}
