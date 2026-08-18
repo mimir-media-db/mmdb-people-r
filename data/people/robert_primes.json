@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_robert_primes",
+  "name": "Robert Primes",
+  "external_ids": {
+    "wikidata": "Q52378074",
+    "imdb": "nm0140017"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1940
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_richard_curtis",
+  "name": "Richard Curtis",
+  "external_ids": {
+    "wikidata": "Q355300",
+    "imdb": "nm0193485"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rick_rossovich",
+  "name": "Rick Rossovich",
+  "external_ids": {
+    "wikidata": "Q1139727",
+    "imdb": "nm0001685"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}

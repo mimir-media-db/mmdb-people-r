@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rory_mccann",
+  "name": "Rory McCann",
+  "external_ids": {
+    "wikidata": "Q971177",
+    "imdb": "nm0564920"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

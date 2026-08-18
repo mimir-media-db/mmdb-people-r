@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rick_patrick",
+  "name": "Rick Patrick",
+  "external_ids": {
+    "wikidata": "Q31796893",
+    "imdb": "nm1255995"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1976
+}

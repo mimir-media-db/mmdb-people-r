@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_rue_mcclanahan",
+  "name": "Rue McClanahan",
+  "external_ids": {
+    "wikidata": "Q230196",
+    "imdb": "nm0001516"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1934,
+  "death_year": 2010
+}

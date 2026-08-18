@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ray_romano",
+  "name": "Ray Romano",
+  "external_ids": {
+    "wikidata": "Q220836",
+    "imdb": "nm0005380"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}

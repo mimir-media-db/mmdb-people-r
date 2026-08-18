@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rob_rotten",
+  "name": "Rob Rotten",
+  "external_ids": {
+    "wikidata": "Q7340508",
+    "imdb": "nm1465776"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1980
+}

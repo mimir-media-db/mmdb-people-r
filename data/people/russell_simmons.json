@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_russell_simmons",
+  "name": "Russell Simmons",
+  "external_ids": {
+    "wikidata": "Q962378",
+    "imdb": "nm0005432"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1957
+}

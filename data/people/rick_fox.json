@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rick_fox",
+  "name": "Rick Fox",
+  "external_ids": {
+    "wikidata": "Q380802",
+    "imdb": "nm0289213"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1969
+}

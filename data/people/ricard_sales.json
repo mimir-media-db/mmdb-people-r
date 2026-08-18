@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ricard_sales",
+  "name": "Ricard Sales",
+  "external_ids": {
+    "wikidata": "Q6107963",
+    "imdb": "nm0758127"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1980
+}
