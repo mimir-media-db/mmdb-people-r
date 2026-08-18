@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rio_matsumoto",
+  "name": "Rio Matsumoto",
+  "external_ids": {
+    "wikidata": "Q1138072",
+    "imdb": "nm1800632"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1982
+}

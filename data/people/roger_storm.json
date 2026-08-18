@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_roger_storm",
+  "name": "Roger Storm",
+  "external_ids": {
+    "wikidata": "Q6191608",
+    "imdb": "nm0832613"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

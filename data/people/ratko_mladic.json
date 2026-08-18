@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ratko_mladic",
+  "name": "Ratko Mladić",
+  "external_ids": {
+    "wikidata": "Q93167",
+    "imdb": "nm1269513"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1943
+}

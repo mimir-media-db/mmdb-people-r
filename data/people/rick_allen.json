@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rick_allen",
+  "name": "Rick Allen",
+  "external_ids": {
+    "wikidata": "Q323356",
+    "imdb": "nm1215188"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}
