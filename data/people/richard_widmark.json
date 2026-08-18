@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_richard_widmark",
+  "name": "Richard Widmark",
+  "external_ids": {
+    "wikidata": "Q320036",
+    "imdb": "nm0001847"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1914,
+  "death_year": 2008
+}

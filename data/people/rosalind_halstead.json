@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rosalind_halstead",
+  "name": "Rosalind Halstead",
+  "external_ids": {
+    "wikidata": "Q3442232",
+    "imdb": "nm1310137"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1984
+}

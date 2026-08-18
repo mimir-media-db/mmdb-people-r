@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_richard_nixon",
+  "name": "Richard Nixon",
+  "external_ids": {
+    "wikidata": "Q9588",
+    "imdb": "nm0633271"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1913,
+  "death_year": 1994
+}
