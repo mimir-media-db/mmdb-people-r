@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_randy_savage",
+  "name": "Randy Savage",
+  "external_ids": {
+    "wikidata": "Q59635",
+    "imdb": "nm0688187"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952,
+  "death_year": 2011
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_regina_hall",
+  "name": "Regina Hall",
+  "external_ids": {
+    "wikidata": "Q235141",
+    "imdb": "nm0356021"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

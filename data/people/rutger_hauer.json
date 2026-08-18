@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_rutger_hauer",
+  "name": "Rutger Hauer",
+  "external_ids": {
+    "wikidata": "Q213574",
+    "imdb": "nm0000442"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1944,
+  "death_year": 2019
+}

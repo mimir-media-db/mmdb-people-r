@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_rodney_dangerfield",
+  "name": "Rodney Dangerfield",
+  "external_ids": {
+    "wikidata": "Q436386",
+    "imdb": "nm0001098"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1921,
+  "death_year": 2004
+}

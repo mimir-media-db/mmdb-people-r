@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_raj_kapoor",
+  "name": "Raj Kapoor",
+  "external_ids": {
+    "wikidata": "Q7285305",
+    "imdb": "nm1171296"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959
+}

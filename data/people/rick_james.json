@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_rick_james",
+  "name": "Rick James",
+  "external_ids": {
+    "wikidata": "Q248207",
+    "imdb": "nm0416872"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1948,
+  "death_year": 2004
+}

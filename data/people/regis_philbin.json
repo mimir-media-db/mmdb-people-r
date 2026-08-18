@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_regis_philbin",
+  "name": "Regis Philbin",
+  "external_ids": {
+    "wikidata": "Q463673",
+    "imdb": "nm0005310"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1931,
+  "death_year": 2020
+}

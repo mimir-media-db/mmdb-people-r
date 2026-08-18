@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_richard_leaf",
+  "name": "Richard Leaf",
+  "external_ids": {
+    "wikidata": "Q3430965",
+    "imdb": "nm0494945"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1966
+}

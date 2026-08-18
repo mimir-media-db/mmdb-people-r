@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_robert_wise",
+  "name": "Robert Wise",
+  "external_ids": {
+    "wikidata": "Q59821",
+    "imdb": "nm0936404"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1914,
+  "death_year": 2005
+}

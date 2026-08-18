@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_robert_kirk",
+  "name": "Robert Kirk",
+  "external_ids": {
+    "wikidata": "Q47417537",
+    "imdb": "nm0456539"
+  },
+  "last_updated": "2026-08-18"
+}

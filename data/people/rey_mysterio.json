@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rey_mysterio",
+  "name": "Rey Mysterio",
+  "external_ids": {
+    "wikidata": "Q44152",
+    "imdb": "nm0347595"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974
+}
