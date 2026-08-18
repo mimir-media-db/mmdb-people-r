@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rick_worthy",
+  "name": "Rick Worthy",
+  "external_ids": {
+    "wikidata": "Q3011915",
+    "imdb": "nm0941796"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1967
+}

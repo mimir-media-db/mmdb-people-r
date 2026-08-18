@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rider_strong",
+  "name": "Rider Strong",
+  "external_ids": {
+    "wikidata": "Q725903",
+    "imdb": "nm0835045"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1979
+}

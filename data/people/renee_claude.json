@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_renee_claude",
+  "name": "Renée Claude",
+  "external_ids": {
+    "wikidata": "Q3427126",
+    "imdb": "nm0165217"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1939,
+  "death_year": 2020
+}

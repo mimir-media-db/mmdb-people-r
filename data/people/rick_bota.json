@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rick_bota",
+  "name": "Rick Bota",
+  "external_ids": {
+    "wikidata": "Q1644442",
+    "imdb": "nm0098400"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1999
+}
