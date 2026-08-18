@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ronaldinho",
+  "name": "Ronaldinho",
+  "external_ids": {
+    "wikidata": "Q39444",
+    "imdb": "nm1155226"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1980
+}

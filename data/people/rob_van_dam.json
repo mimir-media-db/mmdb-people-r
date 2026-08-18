@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rob_van_dam",
+  "name": "Rob Van Dam",
+  "external_ids": {
+    "wikidata": "Q44628",
+    "imdb": "nm0885942"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}

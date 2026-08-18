@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_robert_lord",
+  "name": "Robert Lord",
+  "external_ids": {
+    "wikidata": "Q2158073",
+    "imdb": "nm0520501"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1900,
+  "death_year": 1976
+}

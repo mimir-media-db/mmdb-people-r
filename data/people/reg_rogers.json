@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_reg_rogers",
+  "name": "Reg Rogers",
+  "external_ids": {
+    "wikidata": "Q15727761",
+    "imdb": "nm0737138"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1964
+}

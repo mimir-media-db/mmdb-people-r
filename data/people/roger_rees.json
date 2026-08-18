@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_roger_rees",
+  "name": "Roger Rees",
+  "external_ids": {
+    "wikidata": "Q1750774",
+    "imdb": "nm0715953"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1944,
+  "death_year": 2015
+}

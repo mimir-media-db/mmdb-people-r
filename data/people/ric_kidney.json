@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ric_kidney",
+  "name": "Ric Kidney",
+  "external_ids": {
+    "wikidata": "Q2148577",
+    "imdb": "nm0452305"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1935
+}

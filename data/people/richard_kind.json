@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_richard_kind",
+  "name": "Richard Kind",
+  "external_ids": {
+    "wikidata": "Q449959",
+    "imdb": "nm0454236"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_roland_gift",
+  "name": "Roland Gift",
+  "external_ids": {
+    "wikidata": "Q952724",
+    "imdb": "nm0317558"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}

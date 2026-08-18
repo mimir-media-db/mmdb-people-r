@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_robin_nash",
+  "name": "Robin Nash",
+  "external_ids": {
+    "wikidata": "Q7352680",
+    "imdb": "nm0621802"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1927,
+  "death_year": 2011
+}
