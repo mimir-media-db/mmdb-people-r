@@ -1,1 +1,137 @@
-[]
+[
+  {
+    "id": "p_rachel_nichols",
+    "name": "Rachel Nichols",
+    "birth_year": 1980,
+    "path": "data/people/rachel_nichols.json"
+  },
+  {
+    "id": "p_radim_vizvary",
+    "name": "Radim Vizváry",
+    "birth_year": 1979,
+    "path": "data/people/radim_vizvary.json"
+  },
+  {
+    "id": "p_raduz_macha",
+    "name": "Radúz Mácha",
+    "birth_year": 1987,
+    "path": "data/people/raduz_macha.json"
+  },
+  {
+    "id": "p_rafael_amaya",
+    "name": "Rafael Amaya",
+    "birth_year": 1977,
+    "path": "data/people/rafael_amaya.json"
+  },
+  {
+    "id": "p_raisa_ryazanova",
+    "name": "Raisa Ryazanova",
+    "birth_year": 1944,
+    "path": "data/people/raisa_ryazanova.json"
+  },
+  {
+    "id": "p_rajeev_virani",
+    "name": "Rajeev Virani",
+    "path": "data/people/rajeev_virani.json"
+  },
+  {
+    "id": "p_ralph_wieser",
+    "name": "Ralph Wieser",
+    "birth_year": 1961,
+    "path": "data/people/ralph_wieser.json"
+  },
+  {
+    "id": "p_rasu_madhuravan",
+    "name": "Rasu Madhuravan",
+    "birth_year": 1969,
+    "path": "data/people/rasu_madhuravan.json"
+  },
+  {
+    "id": "p_renate_costa",
+    "name": "Renate Costa",
+    "birth_year": 1981,
+    "path": "data/people/renate_costa.json"
+  },
+  {
+    "id": "p_richard_genzer",
+    "name": "Richard Genzer",
+    "birth_year": 1966,
+    "path": "data/people/richard_genzer.json"
+  },
+  {
+    "id": "p_rina_akiyama",
+    "name": "Rina Akiyama",
+    "birth_year": 1985,
+    "path": "data/people/rina_akiyama.json"
+  },
+  {
+    "id": "p_ringo_starr",
+    "name": "Ringo Starr",
+    "birth_year": 1940,
+    "path": "data/people/ringo_starr.json"
+  },
+  {
+    "id": "p_rita_cortese",
+    "name": "Rita Cortese",
+    "birth_year": 1949,
+    "path": "data/people/rita_cortese.json"
+  },
+  {
+    "id": "p_robert_cejnar",
+    "name": "Robert Cejnar",
+    "birth_year": 1995,
+    "path": "data/people/robert_cejnar.json"
+  },
+  {
+    "id": "p_rocio_rodriguez_presedo",
+    "name": "Rocío Rodríguez Presedo",
+    "path": "data/people/rocio_rodriguez_presedo.json"
+  },
+  {
+    "id": "p_roman_kurtsyn",
+    "name": "Roman Kurtsyn",
+    "birth_year": 1985,
+    "path": "data/people/roman_kurtsyn.json"
+  },
+  {
+    "id": "p_romulo_aguillaume",
+    "name": "Rómulo Aguillaume",
+    "path": "data/people/romulo_aguillaume.json"
+  },
+  {
+    "id": "p_rosendo_ruiz",
+    "name": "Rosendo Ruiz",
+    "birth_year": 1967,
+    "path": "data/people/rosendo_ruiz.json"
+  },
+  {
+    "id": "p_ruhi_sar",
+    "name": "Ruhi Sarı",
+    "birth_year": 1972,
+    "path": "data/people/ruhi_sar.json"
+  },
+  {
+    "id": "p_ruito_aoyagi",
+    "name": "Ruito Aoyagi",
+    "birth_year": 1990,
+    "path": "data/people/ruito_aoyagi.json"
+  },
+  {
+    "id": "p_ruslan_balttser",
+    "name": "Ruslan Balttser",
+    "birth_year": 1972,
+    "path": "data/people/ruslan_balttser.json"
+  },
+  {
+    "id": "p_ruth_gabriel",
+    "name": "Ruth Gabriel",
+    "birth_year": 1975,
+    "path": "data/people/ruth_gabriel.json"
+  },
+  {
+    "id": "p_rza_akn",
+    "name": "Rıza Akın",
+    "birth_year": 1955,
+    "path": "data/people/rza_akn.json"
+  }
+]
