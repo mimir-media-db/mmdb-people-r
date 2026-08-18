@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ringo_starr",
+  "name": "Ringo Starr",
+  "external_ids": {
+    "wikidata": "Q2632",
+    "imdb": "nm0823592"
+  },
+  "last_updated": "2026-08-17",
+  "birth_year": 1940,
+  "death_year": null
+}
