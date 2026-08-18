@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_radek_skvor",
+  "name": "Radek Škvor",
+  "external_ids": {
+    "wikidata": "Q7280096",
+    "imdb": "nm0804988"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1989
+}

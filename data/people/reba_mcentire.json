@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_reba_mcentire",
+  "name": "Reba McEntire",
+  "external_ids": {
+    "wikidata": "Q229430",
+    "imdb": "nm0005207"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955
+}

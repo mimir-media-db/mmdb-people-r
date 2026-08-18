@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_romeo_miller",
+  "name": "Romeo Miller",
+  "external_ids": {
+    "wikidata": "Q452307",
+    "imdb": "nm0999075"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1989
+}

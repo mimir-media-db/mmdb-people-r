@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_robert_fox",
+  "name": "Robert Fox",
+  "external_ids": {
+    "wikidata": "Q7344476",
+    "imdb": "nm0289221"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1952,
+  "death_year": 2026
+}

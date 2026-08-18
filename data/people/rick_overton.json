@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rick_overton",
+  "name": "Rick Overton",
+  "external_ids": {
+    "wikidata": "Q2151597",
+    "imdb": "nm0653959"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1954
+}
