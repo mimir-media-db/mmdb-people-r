@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_rob_dawber",
+  "name": "Rob Dawber",
+  "external_ids": {
+    "wikidata": "Q7340070",
+    "imdb": "nm1085215"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956,
+  "death_year": 2001
+}

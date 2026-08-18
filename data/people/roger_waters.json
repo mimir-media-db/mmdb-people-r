@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_roger_waters",
+  "name": "Roger Waters",
+  "external_ids": {
+    "wikidata": "Q180861",
+    "imdb": "nm0914166"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1943
+}

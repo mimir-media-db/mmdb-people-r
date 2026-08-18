@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ric_young",
+  "name": "Ric Young",
+  "external_ids": {
+    "wikidata": "Q3430193",
+    "imdb": "nm0949521"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1944
+}

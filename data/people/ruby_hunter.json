@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ruby_hunter",
+  "name": "Ruby Hunter",
+  "external_ids": {
+    "wikidata": "Q531666",
+    "imdb": "nm0403024"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955,
+  "death_year": 2010
+}

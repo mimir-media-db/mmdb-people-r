@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rick_cramer",
+  "name": "Rick Cramer",
+  "external_ids": {
+    "wikidata": "Q23047425",
+    "imdb": "nm0186194"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1958
+}

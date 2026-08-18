@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ramon_nomar",
+  "name": "Ramon Nomar",
+  "external_ids": {
+    "wikidata": "Q2301486",
+    "imdb": "nm0634553"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1974
+}

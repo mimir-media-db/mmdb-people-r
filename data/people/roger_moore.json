@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_roger_moore",
+  "name": "Roger Moore",
+  "external_ids": {
+    "wikidata": "Q134333",
+    "imdb": "nm0000549"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1927,
+  "death_year": 2017
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rex_linn",
+  "name": "Rex Linn",
+  "external_ids": {
+    "wikidata": "Q463285",
+    "imdb": "nm0513010"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1956
+}

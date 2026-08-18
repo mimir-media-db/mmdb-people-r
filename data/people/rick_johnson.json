@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rick_johnson",
+  "name": "Rick Johnson",
+  "external_ids": {
+    "wikidata": "Q7331487",
+    "imdb": "nm0002593"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1961
+}

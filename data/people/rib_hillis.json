@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rib_hillis",
+  "name": "Rib Hillis",
+  "external_ids": {
+    "wikidata": "Q1929335",
+    "imdb": "nm0385032"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1970
+}
