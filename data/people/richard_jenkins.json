@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_richard_jenkins",
+  "name": "Richard Jenkins",
+  "external_ids": {
+    "wikidata": "Q313043",
+    "imdb": "nm0420955"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947
+}

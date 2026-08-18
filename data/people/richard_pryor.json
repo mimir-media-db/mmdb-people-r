@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_richard_pryor",
+  "name": "Richard Pryor",
+  "external_ids": {
+    "wikidata": "Q294912",
+    "imdb": "nm0001640"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1940,
+  "death_year": 2005
+}

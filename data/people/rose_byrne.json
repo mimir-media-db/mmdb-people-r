@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rose_byrne",
+  "name": "Rose Byrne",
+  "external_ids": {
+    "wikidata": "Q228717",
+    "imdb": "nm0126284"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1979
+}

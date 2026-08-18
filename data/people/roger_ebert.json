@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_roger_ebert",
+  "name": "Roger Ebert",
+  "external_ids": {
+    "wikidata": "Q212173",
+    "imdb": "nm0001170"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1942,
+  "death_year": 2013
+}

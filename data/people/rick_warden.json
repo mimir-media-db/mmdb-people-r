@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rick_warden",
+  "name": "Rick Warden",
+  "external_ids": {
+    "wikidata": "Q980210",
+    "imdb": "nm0912012"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1971
+}

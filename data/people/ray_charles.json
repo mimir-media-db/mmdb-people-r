@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ray_charles",
+  "name": "Ray Charles",
+  "external_ids": {
+    "wikidata": "Q544387",
+    "imdb": "nm0153124"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1930,
+  "death_year": 2004
+}

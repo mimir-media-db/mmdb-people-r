@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_roland_emmerich",
+  "name": "Roland Emmerich",
+  "external_ids": {
+    "wikidata": "Q60100",
+    "imdb": "nm0000386"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1955
+}

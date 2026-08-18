@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rus_blackwell",
+  "name": "Rus Blackwell",
+  "external_ids": {
+    "wikidata": "Q19478582",
+    "imdb": "nm0085952"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1963
+}

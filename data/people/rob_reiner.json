@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_rob_reiner",
+  "name": "Rob Reiner",
+  "external_ids": {
+    "wikidata": "Q287607",
+    "imdb": "nm0001661"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1947,
+  "death_year": 2025
+}

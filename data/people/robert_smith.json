@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_robert_smith",
+  "name": "Robert Smith",
+  "external_ids": {
+    "wikidata": "Q491252",
+    "imdb": "nm0809733"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959
+}

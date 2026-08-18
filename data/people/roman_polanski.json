@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_roman_polanski",
+  "name": "Roman Polanski",
+  "external_ids": {
+    "wikidata": "Q51552",
+    "imdb": "nm0000591"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1933
+}

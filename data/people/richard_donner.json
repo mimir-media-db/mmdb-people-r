@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_richard_donner",
+  "name": "Richard Donner",
+  "external_ids": {
+    "wikidata": "Q262130",
+    "imdb": "nm0001149"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1930,
+  "death_year": 2021
+}

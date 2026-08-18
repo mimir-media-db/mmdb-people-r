@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_roman_coppola",
+  "name": "Roman Coppola",
+  "external_ids": {
+    "wikidata": "Q245808",
+    "imdb": "nm0178910"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1965
+}

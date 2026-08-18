@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ron_howard",
+  "name": "Ron Howard",
+  "external_ids": {
+    "wikidata": "Q103646",
+    "imdb": "nm0000165"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1954
+}

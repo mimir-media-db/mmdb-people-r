@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_randy_quaid",
+  "name": "Randy Quaid",
+  "external_ids": {
+    "wikidata": "Q316647",
+    "imdb": "nm0001642"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1950
+}

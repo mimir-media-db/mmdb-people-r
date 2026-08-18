@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rosette",
+  "name": "Rosette",
+  "external_ids": {
+    "wikidata": "Q3442595",
+    "imdb": "nm0703302"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1959
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rick_macy",
+  "name": "Rick Macy",
+  "external_ids": {
+    "wikidata": "Q7331564",
+    "imdb": "nm0534423"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1953
+}

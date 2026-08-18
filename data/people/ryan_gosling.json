@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ryan_gosling",
+  "name": "Ryan Gosling",
+  "external_ids": {
+    "wikidata": "Q193815",
+    "imdb": "nm0331516"
+  },
+  "last_updated": "2026-08-18",
+  "birth_year": 1980
+}
