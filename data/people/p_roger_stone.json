@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_roger_stone",
+  "name": "Roger Stone",
+  "external_ids": {
+    "wikidata": "Q7358961",
+    "imdb": "nm3077682"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1952
+}

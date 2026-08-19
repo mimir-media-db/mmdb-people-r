@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ryan_lochte",
+  "name": "Ryan Lochte",
+  "external_ids": {
+    "wikidata": "Q201517",
+    "imdb": "nm1772758"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

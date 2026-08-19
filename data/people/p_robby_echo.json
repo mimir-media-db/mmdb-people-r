@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_robby_echo",
+  "name": "Robby Echo",
+  "external_ids": {
+    "wikidata": "Q123758650",
+    "imdb": "nm7155828"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}

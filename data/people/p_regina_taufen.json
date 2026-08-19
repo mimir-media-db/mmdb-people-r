@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_regina_taufen",
+  "name": "Regina Taufen",
+  "external_ids": {
+    "wikidata": "Q24576984",
+    "imdb": "nm1743204"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1979
+}
