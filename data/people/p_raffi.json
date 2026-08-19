@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_raffi",
+  "name": "Raffi",
+  "external_ids": {
+    "wikidata": "Q199846",
+    "imdb": "nm1070116"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1948
+}

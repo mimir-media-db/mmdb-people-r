@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_robert_greene",
+  "name": "Robert Greene",
+  "external_ids": {
+    "wikidata": "Q19957948",
+    "imdb": "nm1914992"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1976
+}

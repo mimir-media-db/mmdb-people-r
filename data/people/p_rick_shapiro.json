@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rick_shapiro",
+  "name": "Rick Shapiro",
+  "external_ids": {
+    "wikidata": "Q7331732",
+    "imdb": "nm0788617"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969
+}
