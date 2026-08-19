@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rez_cortez",
+  "name": "Rez Cortez",
+  "external_ids": {
+    "wikidata": "Q12969929",
+    "imdb": "nm0181397"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1956
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rozina",
+  "name": "Rozina",
+  "external_ids": {
+    "wikidata": "Q18206741",
+    "imdb": "nm7502355"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1955
+}
