@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rebecca_breeds",
+  "name": "Rebecca Breeds",
+  "external_ids": {
+    "wikidata": "Q452805",
+    "imdb": "nm2843024"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}
