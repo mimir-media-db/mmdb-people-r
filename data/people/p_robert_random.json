@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_robert_random",
+  "name": "Robert Random",
+  "external_ids": {
+    "wikidata": "Q15463246",
+    "imdb": "nm0709947"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1943
+}
