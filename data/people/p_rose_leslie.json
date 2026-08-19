@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rose_leslie",
+  "name": "Rose Leslie",
+  "external_ids": {
+    "wikidata": "Q461132",
+    "imdb": "nm3310211"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}
