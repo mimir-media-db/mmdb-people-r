@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_roland_bonjour",
+  "name": "Roland Bonjour",
+  "external_ids": {
+    "wikidata": "Q19840714",
+    "imdb": "nm2450506"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1980
+}

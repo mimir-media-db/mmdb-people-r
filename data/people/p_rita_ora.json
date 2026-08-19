@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rita_ora",
+  "name": "Rita Ora",
+  "external_ids": {
+    "wikidata": "Q229760",
+    "imdb": "nm1357683"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1990
+}

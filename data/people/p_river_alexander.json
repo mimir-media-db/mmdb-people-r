@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_river_alexander",
+  "name": "River Alexander",
+  "external_ids": {
+    "wikidata": "Q7337064",
+    "imdb": "nm3788762"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}
