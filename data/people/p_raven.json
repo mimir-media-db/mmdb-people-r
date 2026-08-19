@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_raven",
+  "name": "Raven",
+  "external_ids": {
+    "wikidata": "Q452217",
+    "imdb": "nm0506610"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1964
+}

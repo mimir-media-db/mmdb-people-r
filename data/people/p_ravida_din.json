@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ravida_din",
+  "name": "Ravida Din",
+  "external_ids": {
+    "wikidata": "Q6458664",
+    "imdb": "nm2000048"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1900
+}
