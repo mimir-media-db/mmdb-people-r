@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_rick_danko",
+  "name": "Rick Danko",
+  "external_ids": {
+    "wikidata": "Q539944",
+    "imdb": "nm0200313"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1943,
+  "death_year": 1999
+}
