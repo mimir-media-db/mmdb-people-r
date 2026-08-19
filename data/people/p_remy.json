@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_remy",
+  "name": "Rémy",
+  "external_ids": {
+    "wikidata": "Q55599574",
+    "imdb": "nm11124247"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1997
+}
