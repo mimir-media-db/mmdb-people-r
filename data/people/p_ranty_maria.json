@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ranty_maria",
+  "name": "Ranty Maria",
+  "external_ids": {
+    "wikidata": "Q12508069",
+    "imdb": "nm11159476"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}
