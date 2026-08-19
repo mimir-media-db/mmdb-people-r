@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rosie_alison",
+  "name": "Rosie Alison",
+  "external_ids": {
+    "wikidata": "Q24049152",
+    "imdb": "nm2302156"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1963
+}
