@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_richard_carmen",
+  "name": "Richard Carmen",
+  "external_ids": {
+    "wikidata": "Q7324626",
+    "imdb": "nm2066990"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1968
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_romano_prodi",
+  "name": "Romano Prodi",
+  "external_ids": {
+    "wikidata": "Q38484",
+    "imdb": "nm1386906"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1939
+}
