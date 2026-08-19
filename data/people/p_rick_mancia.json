@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rick_mancia",
+  "name": "Rick Mancia",
+  "external_ids": {
+    "wikidata": "Q43300959",
+    "imdb": "nm5145138"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}

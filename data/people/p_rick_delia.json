@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rick_delia",
+  "name": "Rick D'Elia",
+  "external_ids": {
+    "wikidata": "Q24705376",
+    "imdb": "nm1048881"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1967
+}
