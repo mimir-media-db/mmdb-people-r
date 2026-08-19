@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rebecca_field",
+  "name": "Rebecca Field",
+  "external_ids": {
+    "wikidata": "Q2483172",
+    "imdb": "nm2093400"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}

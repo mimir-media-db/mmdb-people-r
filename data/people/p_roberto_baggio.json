@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_roberto_baggio",
+  "name": "Roberto Baggio",
+  "external_ids": {
+    "wikidata": "Q67964",
+    "imdb": "nm1370079"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1967
+}

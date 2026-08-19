@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_robin_riker",
+  "name": "Robin Riker",
+  "external_ids": {
+    "wikidata": "Q724918",
+    "imdb": "nm0726939"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1952
+}
