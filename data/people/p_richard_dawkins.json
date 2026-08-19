@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_richard_dawkins",
+  "name": "Richard Dawkins",
+  "external_ids": {
+    "wikidata": "Q44461",
+    "imdb": "nm1468026"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1941
+}
