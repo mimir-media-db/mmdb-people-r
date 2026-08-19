@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_raya_martigny",
+  "name": "Raya Martigny",
+  "external_ids": {
+    "wikidata": "Q138782306",
+    "imdb": "nm10321795"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1995
+}
