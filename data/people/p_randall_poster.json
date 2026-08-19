@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_randall_poster",
+  "name": "Randall Poster",
+  "external_ids": {
+    "wikidata": "Q29033457",
+    "imdb": "nm0692922"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1999
+}
