@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_roger_bonjour",
+  "name": "Roger Bonjour",
+  "external_ids": {
+    "wikidata": "Q47408755",
+    "imdb": "nm5856624"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}
