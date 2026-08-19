@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_roman_atwood",
+  "name": "Roman Atwood",
+  "external_ids": {
+    "wikidata": "Q17418373",
+    "imdb": "nm5418831"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1983
+}

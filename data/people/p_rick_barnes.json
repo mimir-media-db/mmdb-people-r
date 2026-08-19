@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_rick_barnes",
+  "name": "Rick Barnes",
+  "external_ids": {
+    "wikidata": "Q26863950",
+    "imdb": "nm8419163"
+  },
+  "last_updated": "2026-08-19"
+}

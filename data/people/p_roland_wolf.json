@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_roland_wolf",
+  "name": "Roland Wolf",
+  "external_ids": {
+    "wikidata": "Q3440299",
+    "imdb": "nm0937919"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1964,
+  "death_year": 1995
+}
