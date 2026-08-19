@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rachel_pickup",
+  "name": "Rachel Pickup",
+  "external_ids": {
+    "wikidata": "Q5362042",
+    "imdb": "nm0681974"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1973
+}
