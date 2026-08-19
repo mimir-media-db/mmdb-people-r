@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_roy_e_disney",
+  "name": "Roy E. Disney",
+  "external_ids": {
+    "wikidata": "Q374229",
+    "imdb": "nm0004877"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1930,
+  "death_year": 2009
+}

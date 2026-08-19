@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_rick_bieber",
+  "name": "Rick Bieber",
+  "external_ids": {
+    "wikidata": "Q113585877",
+    "imdb": "nm0081279"
+  },
+  "last_updated": "2026-08-19"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_russell_harvard",
+  "name": "Russell Harvard",
+  "external_ids": {
+    "wikidata": "Q3453466",
+    "imdb": "nm2341751"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1981
+}

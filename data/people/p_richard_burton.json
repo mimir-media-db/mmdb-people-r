@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_richard_burton",
+  "name": "Richard Burton",
+  "external_ids": {
+    "wikidata": "Q151973",
+    "imdb": "nm0000009"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1925,
+  "death_year": 1984
+}

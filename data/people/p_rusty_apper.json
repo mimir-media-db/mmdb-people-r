@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rusty_apper",
+  "name": "Rusty Apper",
+  "external_ids": {
+    "wikidata": "Q38053960",
+    "imdb": "nm2488741"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1987
+}

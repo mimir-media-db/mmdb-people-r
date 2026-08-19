@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_reverend_billy",
+  "name": "Reverend Billy",
+  "external_ids": {
+    "wikidata": "Q464486",
+    "imdb": "nm1142849"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1950
+}

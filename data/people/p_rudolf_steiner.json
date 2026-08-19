@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rudolf_steiner",
+  "name": "Rudolf Steiner",
+  "external_ids": {
+    "wikidata": "Q87548",
+    "imdb": "nm0825997"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1941
+}

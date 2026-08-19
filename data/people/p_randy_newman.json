@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_randy_newman",
+  "name": "Randy Newman",
+  "external_ids": {
+    "wikidata": "Q318475",
+    "imdb": "nm0005271"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1943
+}

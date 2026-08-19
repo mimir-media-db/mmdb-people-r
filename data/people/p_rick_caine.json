@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_rick_caine",
+  "name": "Rick Caine",
+  "external_ids": {
+    "wikidata": "Q114028172",
+    "imdb": "nm1048448"
+  },
+  "last_updated": "2026-08-19"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rosser_goodman",
+  "name": "Rosser Goodman",
+  "external_ids": {
+    "wikidata": "Q7369800",
+    "imdb": "nm0329223"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1900
+}
