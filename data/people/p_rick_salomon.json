@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rick_salomon",
+  "name": "Rick Salomon",
+  "external_ids": {
+    "wikidata": "Q3431600",
+    "imdb": "nm0758903"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1968
+}
