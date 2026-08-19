@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ryan_grantham",
+  "name": "Ryan Grantham",
+  "external_ids": {
+    "wikidata": "Q85173999",
+    "imdb": "nm2566096"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1998
+}

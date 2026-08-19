@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_reggie_miller",
+  "name": "Reggie Miller",
+  "external_ids": {
+    "wikidata": "Q270966",
+    "imdb": "nm0589185"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1965
+}

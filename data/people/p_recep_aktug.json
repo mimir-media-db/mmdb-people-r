@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_recep_aktug",
+  "name": "Recep Aktuğ",
+  "external_ids": {
+    "wikidata": "Q6091887",
+    "imdb": "nm3422495"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1954,
+  "death_year": 2020
+}

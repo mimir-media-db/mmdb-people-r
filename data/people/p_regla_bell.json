@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_regla_bell",
+  "name": "Regla Bell",
+  "external_ids": {
+    "wikidata": "Q2719224",
+    "imdb": "nm11313742"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1970
+}
