@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rob_archer",
+  "name": "Rob Archer",
+  "external_ids": {
+    "wikidata": "Q24955064",
+    "imdb": "nm1353738"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1975
+}
