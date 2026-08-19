@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ruskin_bond",
+  "name": "Ruskin Bond",
+  "external_ids": {
+    "wikidata": "Q1380092",
+    "imdb": "nm0094037"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1934
+}
