@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_robin_humboldt",
+  "name": "Robin Humboldt",
+  "external_ids": {
+    "wikidata": "Q19963478",
+    "imdb": "nm6835501"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1985
+}
