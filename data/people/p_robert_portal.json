@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_robert_portal",
+  "name": "Robert Portal",
+  "external_ids": {
+    "wikidata": "Q89499877",
+    "imdb": "nm0691928"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1967
+}

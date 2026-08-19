@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_robert_gibbs",
+  "name": "Robert Gibbs",
+  "external_ids": {
+    "wikidata": "Q28869465",
+    "imdb": "nm0316727"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1964,
+  "death_year": 2020
+}
