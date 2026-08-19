@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ronald_france",
+  "name": "Ronald France",
+  "external_ids": {
+    "wikidata": "Q3441521",
+    "imdb": "nm0289841"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1936,
+  "death_year": 2011
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ricky_ullman",
+  "name": "Ricky Ullman",
+  "external_ids": {
+    "wikidata": "Q350595",
+    "imdb": "nm0880504"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986
+}
