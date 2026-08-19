@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rebecca_ejdemo_beer",
+  "name": "Rebecca Ejdemo Beer",
+  "external_ids": {
+    "wikidata": "Q128529920",
+    "imdb": "nm14787605"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1994
+}
