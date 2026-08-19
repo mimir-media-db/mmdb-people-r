@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ron_paul",
+  "name": "Ron Paul",
+  "external_ids": {
+    "wikidata": "Q15257",
+    "imdb": "nm2223785"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1935
+}

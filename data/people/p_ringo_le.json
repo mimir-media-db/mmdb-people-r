@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ringo_le",
+  "name": "Ringo Le",
+  "external_ids": {
+    "wikidata": "Q7334950",
+    "imdb": "nm3731151"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1900
+}

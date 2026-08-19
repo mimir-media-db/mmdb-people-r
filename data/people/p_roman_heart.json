@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_roman_heart",
+  "name": "Roman Heart",
+  "external_ids": {
+    "wikidata": "Q578025",
+    "imdb": "nm1904656"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1986,
+  "death_year": 2019
+}

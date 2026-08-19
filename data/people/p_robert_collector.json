@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_robert_collector",
+  "name": "Robert Collector",
+  "external_ids": {
+    "wikidata": "Q106712731",
+    "imdb": "nm0171720"
+  },
+  "last_updated": "2026-08-19"
+}
