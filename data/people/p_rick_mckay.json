@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_rick_mckay",
+  "name": "Rick McKay",
+  "external_ids": {
+    "wikidata": "Q19665159",
+    "imdb": "nm1092221"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1955,
+  "death_year": 2017
+}
