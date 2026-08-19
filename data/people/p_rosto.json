@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_rosto",
+  "name": "Rosto",
+  "external_ids": {
+    "wikidata": "Q2479187",
+    "imdb": "nm1294599"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1969,
+  "death_year": 2019
+}

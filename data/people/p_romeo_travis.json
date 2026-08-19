@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_romeo_travis",
+  "name": "Romeo Travis",
+  "external_ids": {
+    "wikidata": "Q2165112",
+    "imdb": "nm3121619"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1984
+}

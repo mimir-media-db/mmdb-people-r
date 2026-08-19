@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_robert_stone",
+  "name": "Robert Stone",
+  "external_ids": {
+    "wikidata": "Q1633025",
+    "imdb": "nm0832133"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1937,
+  "death_year": 2015
+}

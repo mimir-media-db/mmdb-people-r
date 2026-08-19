@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rio_ferdinand",
+  "name": "Rio Ferdinand",
+  "external_ids": {
+    "wikidata": "Q483417",
+    "imdb": "nm1214457"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1978
+}
