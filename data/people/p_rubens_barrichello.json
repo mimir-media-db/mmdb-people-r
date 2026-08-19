@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rubens_barrichello",
+  "name": "Rubens Barrichello",
+  "external_ids": {
+    "wikidata": "Q169846",
+    "imdb": "nm2559359"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1972
+}

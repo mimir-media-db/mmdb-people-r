@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rick_alverson",
+  "name": "Rick Alverson",
+  "external_ids": {
+    "wikidata": "Q7331195",
+    "imdb": "nm3687830"
+  },
+  "last_updated": "2026-08-19",
+  "birth_year": 1971
+}
