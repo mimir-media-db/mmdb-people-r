@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rabbi_shergill",
+  "name": "Rabbi Shergill",
+  "external_ids": {
+    "wikidata": "Q2689581",
+    "imdb": "nm2593814"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1972
+}

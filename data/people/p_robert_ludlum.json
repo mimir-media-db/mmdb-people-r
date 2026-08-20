@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_robert_ludlum",
+  "name": "Robert Ludlum",
+  "external_ids": {
+    "wikidata": "Q224113",
+    "imdb": "nm0524924"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1927,
+  "death_year": 2001
+}
