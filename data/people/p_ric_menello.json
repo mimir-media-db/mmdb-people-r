@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_ric_menello",
+  "name": "Ric Menello",
+  "external_ids": {
+    "wikidata": "Q15993286",
+    "imdb": "nm0579453"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1952,
+  "death_year": 2013
+}
