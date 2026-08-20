@@ -28864,7 +28864,7 @@
   {
     "id": "p_ritwick_chakraborty",
     "name": "Ritwick Chakraborty",
-    "birth_year": 1977,
+    "birth_year": 1968,
     "path": "data/people/p_ritwick_chakraborty.json"
   },
   {
@@ -38548,6 +38548,11 @@
     "path": "data/people/p_rodrigo_vazquez.json"
   },
   {
+    "id": "p_rodrigo_vergara_tampe",
+    "name": "Rodrigo Vergara Tampe",
+    "path": "data/people/p_rodrigo_vergara_tampe.json"
+  },
+  {
     "id": "p_rodrigo_viaggio",
     "name": "Rodrigo Viaggio",
     "path": "data/people/p_rodrigo_viaggio.json"
@@ -39805,6 +39810,12 @@
     "name": "Rohan Shah",
     "birth_year": 1994,
     "path": "data/people/p_rohan_shah.json"
+  },
+  {
+    "id": "p_rohan_shankar",
+    "name": "Rohan Shankar",
+    "birth_year": 1984,
+    "path": "data/people/p_rohan_shankar.json"
   },
   {
     "id": "p_rohan_sippy",
@@ -48427,7 +48438,7 @@
   {
     "id": "p_ruby_stokes",
     "name": "Ruby Stokes",
-    "birth_year": 1999,
+    "birth_year": 2000,
     "path": "data/people/p_ruby_stokes.json"
   },
   {
