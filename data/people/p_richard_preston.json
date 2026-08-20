@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_richard_preston",
+  "name": "Richard Preston",
+  "external_ids": {
+    "wikidata": "Q320884",
+    "imdb": "nm4628326"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1954
+}
