@@ -3,9 +3,10 @@
   "id": "p_richard_smith",
   "name": "Richard Smith",
   "external_ids": {
-    "wikidata": "Q7329119",
-    "imdb": "nm1366310"
+    "wikidata": "Q3431224",
+    "imdb": "nm0807967"
   },
   "last_updated": "2026-08-20",
-  "birth_year": 1999
+  "birth_year": 1886,
+  "death_year": 1937
 }
