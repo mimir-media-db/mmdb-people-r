@@ -912,6 +912,12 @@
     "path": "data/people/p_rachel_cullen.json"
   },
   {
+    "id": "p_rachel_cusk",
+    "name": "Rachel Cusk",
+    "birth_year": 1967,
+    "path": "data/people/p_rachel_cusk.json"
+  },
+  {
     "id": "p_rachel_daisy_ellis",
     "name": "Rachel Daisy Ellis",
     "path": "data/people/p_rachel_daisy_ellis.json"
@@ -1422,6 +1428,12 @@
     "path": "data/people/p_rachel_ticotin.json"
   },
   {
+    "id": "p_rachel_trachtenburg",
+    "name": "Rachel Trachtenburg",
+    "birth_year": 1993,
+    "path": "data/people/p_rachel_trachtenburg.json"
+  },
+  {
     "id": "p_rachel_true",
     "name": "Rachel True",
     "birth_year": 1966,
@@ -1613,7 +1625,7 @@
   {
     "id": "p_rachid_bouchareb",
     "name": "Rachid Bouchareb",
-    "birth_year": 1959,
+    "birth_year": 1953,
     "path": "data/people/p_rachid_bouchareb.json"
   },
   {
@@ -1706,7 +1718,7 @@
   {
     "id": "p_rachna_banerjee",
     "name": "Rachna Banerjee",
-    "birth_year": 1974,
+    "birth_year": 1978,
     "path": "data/people/p_rachna_banerjee.json"
   },
   {
@@ -4200,6 +4212,7 @@
   {
     "id": "p_rahul_aggarwal",
     "name": "Rahul Aggarwal",
+    "birth_year": 1980,
     "path": "data/people/p_rahul_aggarwal.json"
   },
   {
@@ -4455,6 +4468,12 @@
     "name": "Raihan Rafi",
     "birth_year": 1988,
     "path": "data/people/p_raihan_rafi.json"
+  },
+  {
+    "id": "p_raija_talvio",
+    "name": "Raija Talvio",
+    "birth_year": 1959,
+    "path": "data/people/p_raija_talvio.json"
   },
   {
     "id": "p_raiju_kamata",
@@ -5148,7 +5167,7 @@
   {
     "id": "p_raj_chakraborty",
     "name": "Raj Chakraborty",
-    "birth_year": 1975,
+    "birth_year": 1974,
     "path": "data/people/p_raj_chakraborty.json"
   },
   {
@@ -5575,6 +5594,12 @@
     "path": "data/people/p_rajat_bedi.json"
   },
   {
+    "id": "p_rajat_dholakia",
+    "name": "Rajat Dholakia",
+    "birth_year": 1957,
+    "path": "data/people/p_rajat_dholakia.json"
+  },
+  {
     "id": "p_rajat_ganguly",
     "name": "Rajat Ganguly",
     "path": "data/people/p_rajat_ganguly.json"
@@ -5693,7 +5718,7 @@
   {
     "id": "p_rajeev_patil",
     "name": "Rajeev Patil",
-    "birth_year": 1972,
+    "birth_year": 1971,
     "path": "data/people/p_rajeev_patil.json"
   },
   {
@@ -5906,6 +5931,12 @@
     "path": "data/people/p_rajesh_menon.json"
   },
   {
+    "id": "p_rajesh_murugesan",
+    "name": "Rajesh Murugesan",
+    "birth_year": 1988,
+    "path": "data/people/p_rajesh_murugesan.json"
+  },
+  {
     "id": "p_rajesh_nair",
     "name": "Rajesh Nair",
     "birth_year": 1978,
@@ -5962,7 +5993,7 @@
   {
     "id": "p_rajesh_sharma",
     "name": "Rajesh Sharma",
-    "birth_year": 1980,
+    "birth_year": 1973,
     "path": "data/people/p_rajesh_sharma.json"
   },
   {
@@ -6456,7 +6487,7 @@
   {
     "id": "p_rakesh_bedi",
     "name": "Rakesh Bedi",
-    "birth_year": 1955,
+    "birth_year": 1954,
     "path": "data/people/p_rakesh_bedi.json"
   },
   {
@@ -7478,7 +7509,6 @@
   {
     "id": "p_ramana",
     "name": "Ramana",
-    "birth_year": 1979,
     "path": "data/people/p_ramana.json"
   },
   {
@@ -9643,7 +9673,7 @@
   {
     "id": "p_ranjith",
     "name": "Ranjith",
-    "birth_year": 1979,
+    "birth_year": 1964,
     "path": "data/people/p_ranjith.json"
   },
   {
@@ -11332,7 +11362,8 @@
   },
   {
     "id": "p_raul_garcia",
-    "name": "Raúl García",
+    "name": "Raul Garcia",
+    "birth_year": 1957,
     "path": "data/people/p_raul_garcia.json"
   },
   {
@@ -11565,7 +11596,6 @@
   {
     "id": "p_raveendran",
     "name": "Raveendran",
-    "birth_year": 1941,
     "path": "data/people/p_raveendran.json"
   },
   {
@@ -14052,6 +14082,12 @@
     "name": "Rebecca Staab",
     "birth_year": 1961,
     "path": "data/people/p_rebecca_staab.json"
+  },
+  {
+    "id": "p_rebecca_swan",
+    "name": "Rebecca Swan",
+    "birth_year": 1969,
+    "path": "data/people/p_rebecca_swan.json"
   },
   {
     "id": "p_rebecca_tamara",
@@ -19336,6 +19372,12 @@
     "path": "data/people/p_reyn_doi.json"
   },
   {
+    "id": "p_reyn_ouwehand",
+    "name": "Reyn Ouwehand",
+    "birth_year": 1973,
+    "path": "data/people/p_reyn_ouwehand.json"
+  },
+  {
     "id": "p_reynald_bouchard",
     "name": "Reynald Bouchard",
     "birth_year": 1944,
@@ -20221,6 +20263,12 @@
     "name": "Ric Kidney",
     "birth_year": 1935,
     "path": "data/people/p_ric_kidney.json"
+  },
+  {
+    "id": "p_ric_menello",
+    "name": "Ric Menello",
+    "birth_year": 1952,
+    "path": "data/people/p_ric_menello.json"
   },
   {
     "id": "p_ric_obarry",
@@ -21741,7 +21789,7 @@
   {
     "id": "p_richard_bohringer",
     "name": "Richard Bohringer",
-    "birth_year": 1941,
+    "birth_year": 1942,
     "path": "data/people/p_richard_bohringer.json"
   },
   {
@@ -22886,6 +22934,7 @@
   {
     "id": "p_richard_jutras",
     "name": "Richard Jutras",
+    "birth_year": 1961,
     "path": "data/people/p_richard_jutras.json"
   },
   {
@@ -23780,6 +23829,12 @@
     "name": "Richard Rifkin",
     "birth_year": 1999,
     "path": "data/people/p_richard_rifkin.json"
+  },
+  {
+    "id": "p_richard_rinaldi",
+    "name": "Richard Rinaldi",
+    "birth_year": 1949,
+    "path": "data/people/p_richard_rinaldi.json"
   },
   {
     "id": "p_richard_rishi",
@@ -25138,6 +25193,12 @@
     "path": "data/people/p_rick_sloane.json"
   },
   {
+    "id": "p_rick_smith",
+    "name": "Rick Smith",
+    "birth_year": 1959,
+    "path": "data/people/p_rick_smith.json"
+  },
+  {
     "id": "p_rick_spalla",
     "name": "Rick Spalla",
     "path": "data/people/p_rick_spalla.json"
@@ -26083,6 +26144,12 @@
     "id": "p_rik_chatterjee",
     "name": "Rik Chatterjee",
     "path": "data/people/p_rik_chatterjee.json"
+  },
+  {
+    "id": "p_rik_dhiet",
+    "name": "Rik D'Hiet",
+    "birth_year": 1964,
+    "path": "data/people/p_rik_dhiet.json"
   },
   {
     "id": "p_rik_elstgeest",
@@ -28823,6 +28890,11 @@
     "path": "data/people/p_rob_getzschman.json"
   },
   {
+    "id": "p_rob_gibbons",
+    "name": "Rob Gibbons",
+    "path": "data/people/p_rob_gibbons.json"
+  },
+  {
     "id": "p_rob_gibson",
     "name": "Rob Gibson",
     "birth_year": 1945,
@@ -30357,7 +30429,7 @@
   {
     "id": "p_robert_clohessy",
     "name": "Robert Clohessy",
-    "birth_year": 1958,
+    "birth_year": 1957,
     "path": "data/people/p_robert_clohessy.json"
   },
   {
@@ -30591,6 +30663,12 @@
     "name": "Robert Dölle",
     "birth_year": 1971,
     "path": "data/people/p_robert_dolle.json"
+  },
+  {
+    "id": "p_robert_donne",
+    "name": "Robert Donne",
+    "birth_year": 1966,
+    "path": "data/people/p_robert_donne.json"
   },
   {
     "id": "p_robert_donner",
@@ -31864,6 +31942,12 @@
     "name": "Robert Kurtzman",
     "birth_year": 1964,
     "path": "data/people/p_robert_kurtzman.json"
+  },
+  {
+    "id": "p_robert_kurvitz",
+    "name": "Robert Kurvitz",
+    "birth_year": 1984,
+    "path": "data/people/p_robert_kurvitz.json"
   },
   {
     "id": "p_robert_kyahill",
@@ -33322,7 +33406,7 @@
   {
     "id": "p_robert_stone",
     "name": "Robert Stone",
-    "birth_year": 1937,
+    "birth_year": 1957,
     "path": "data/people/p_robert_stone.json"
   },
   {
@@ -35008,7 +35092,7 @@
   {
     "id": "p_roberto_sosa",
     "name": "Roberto Sosa",
-    "birth_year": 1975,
+    "birth_year": 1970,
     "path": "data/people/p_roberto_sosa.json"
   },
   {
@@ -35290,6 +35374,12 @@
     "name": "Robin Ferro",
     "birth_year": 1996,
     "path": "data/people/p_robin_ferro.json"
+  },
+  {
+    "id": "p_robin_foster",
+    "name": "Robin Foster",
+    "birth_year": 1952,
+    "path": "data/people/p_robin_foster.json"
   },
   {
     "id": "p_robin_gammell",
@@ -37213,6 +37303,11 @@
     "path": "data/people/p_rodrigo_films.json"
   },
   {
+    "id": "p_rodrigo_flores_lopez",
+    "name": "Rodrigo Flores López",
+    "path": "data/people/p_rodrigo_flores_lopez.json"
+  },
+  {
     "id": "p_rodrigo_franca",
     "name": "Rodrigo França",
     "birth_year": 1978,
@@ -38152,6 +38247,11 @@
     "path": "data/people/p_roger_hammond.json"
   },
   {
+    "id": "p_roger_harvey",
+    "name": "Roger Harvey",
+    "path": "data/people/p_roger_harvey.json"
+  },
+  {
     "id": "p_roger_haugen",
     "name": "Roger Haugen",
     "path": "data/people/p_roger_haugen.json"
@@ -38966,7 +39066,7 @@
   {
     "id": "p_rohit_shetty",
     "name": "Rohit Shetty",
-    "birth_year": 1974,
+    "birth_year": 1973,
     "path": "data/people/p_rohit_shetty.json"
   },
   {
@@ -39013,7 +39113,7 @@
   {
     "id": "p_roja",
     "name": "Roja",
-    "birth_year": 1972,
+    "birth_year": 1974,
     "path": "data/people/p_roja.json"
   },
   {
@@ -39215,6 +39315,11 @@
     "name": "Roland Eriksson",
     "birth_year": 1954,
     "path": "data/people/p_roland_eriksson.json"
+  },
+  {
+    "id": "p_roland_fauser",
+    "name": "Roland Fauser",
+    "path": "data/people/p_roland_fauser.json"
   },
   {
     "id": "p_roland_florstedt",
@@ -41086,6 +41191,12 @@
     "path": "data/people/p_romana_maggiora_vergano.json"
   },
   {
+    "id": "p_romana_mazalova",
+    "name": "Romana Mazalová",
+    "birth_year": 1987,
+    "path": "data/people/p_romana_mazalova.json"
+  },
+  {
     "id": "p_romana_ondrejkovicova",
     "name": "Romana Ondrejkovičová",
     "birth_year": 1995,
@@ -41804,6 +41915,11 @@
     "path": "data/people/p_ron_fien.json"
   },
   {
+    "id": "p_ron_fish",
+    "name": "Ron Fish",
+    "path": "data/people/p_ron_fish.json"
+  },
+  {
     "id": "p_ron_ford",
     "name": "Ron Ford",
     "path": "data/people/p_ron_ford.json"
@@ -41899,7 +42015,7 @@
   {
     "id": "p_ron_jones",
     "name": "Ron Jones",
-    "birth_year": 1940,
+    "birth_year": 1954,
     "path": "data/people/p_ron_jones.json"
   },
   {
@@ -42258,7 +42374,7 @@
   {
     "id": "p_ron_white",
     "name": "Ron White",
-    "birth_year": 1956,
+    "birth_year": 1953,
     "path": "data/people/p_ron_white.json"
   },
   {
@@ -45263,7 +45379,7 @@
   {
     "id": "p_rostislav_novak",
     "name": "Rostislav Novák",
-    "birth_year": 1948,
+    "birth_year": 1979,
     "path": "data/people/p_rostislav_novak.json"
   },
   {
@@ -50266,6 +50382,12 @@
     "path": "data/people/p_ryan_alosio.json"
   },
   {
+    "id": "p_ryan_amon",
+    "name": "Ryan Amon",
+    "birth_year": 1949,
+    "path": "data/people/p_ryan_amon.json"
+  },
+  {
     "id": "p_ryan_andrews",
     "name": "Ryan Andrews",
     "birth_year": 1981,
@@ -51308,6 +51430,7 @@
   {
     "id": "p_ryan_steele",
     "name": "Ryan Steele",
+    "birth_year": 1990,
     "path": "data/people/p_ryan_steele.json"
   },
   {
