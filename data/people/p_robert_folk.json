@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_robert_folk",
+  "name": "Robert Folk",
+  "external_ids": {
+    "wikidata": "Q717663",
+    "imdb": "nm0006077"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1949
+}
