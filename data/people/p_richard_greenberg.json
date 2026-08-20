@@ -3,8 +3,10 @@
   "id": "p_richard_greenberg",
   "name": "Richard Greenberg",
   "external_ids": {
-    "wikidata": "Q131321677",
-    "imdb": "nm0338575"
+    "wikidata": "Q2149632",
+    "imdb": "nm0338574"
   },
-  "last_updated": "2026-08-20"
+  "last_updated": "2026-08-20",
+  "birth_year": 1958,
+  "death_year": 2025
 }
