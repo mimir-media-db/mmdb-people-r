@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_radek_john",
+  "name": "Radek John",
+  "external_ids": {
+    "wikidata": "Q255434",
+    "imdb": "nm0424220"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1954
+}
