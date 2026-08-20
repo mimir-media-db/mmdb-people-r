@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_robert_matt",
+  "name": "Robert Matt",
+  "external_ids": {
+    "wikidata": "Q95344996",
+    "imdb": "nm5404933"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1966
+}

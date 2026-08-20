@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_robert_wyatt",
+  "name": "Robert Wyatt",
+  "external_ids": {
+    "wikidata": "Q312693",
+    "imdb": "nm0943580"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1945
+}
