@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_randall_meyers",
+  "name": "Randall Meyers",
+  "external_ids": {
+    "wikidata": "Q5985835",
+    "imdb": "nm0583612"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1954
+}

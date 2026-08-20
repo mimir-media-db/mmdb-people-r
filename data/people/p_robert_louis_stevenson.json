@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_robert_louis_stevenson",
+  "name": "Robert Louis Stevenson",
+  "external_ids": {
+    "wikidata": "Q1512",
+    "imdb": "nm0829044"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1850,
+  "death_year": 1894
+}

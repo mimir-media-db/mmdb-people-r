@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_roddy_doyle",
+  "name": "Roddy Doyle",
+  "external_ids": {
+    "wikidata": "Q73506",
+    "imdb": "nm0236486"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1958
+}
