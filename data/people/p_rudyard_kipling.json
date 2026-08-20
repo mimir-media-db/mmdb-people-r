@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_rudyard_kipling",
+  "name": "Rudyard Kipling",
+  "external_ids": {
+    "wikidata": "Q34743",
+    "imdb": "nm0456017"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1865,
+  "death_year": 1936
+}
