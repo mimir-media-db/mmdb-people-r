@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_robot_koch",
+  "name": "Robot Koch",
+  "external_ids": {
+    "wikidata": "Q18057199",
+    "imdb": "nm7445184"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1976
+}
