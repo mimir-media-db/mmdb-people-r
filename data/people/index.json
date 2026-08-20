@@ -6089,7 +6089,7 @@
   {
     "id": "p_rajesh_sharma",
     "name": "Rajesh Sharma",
-    "birth_year": 1980,
+    "birth_year": 1973,
     "path": "data/people/p_rajesh_sharma.json"
   },
   {
@@ -10199,6 +10199,12 @@
     "path": "data/people/p_raphael_gualazzi.json"
   },
   {
+    "id": "p_raphael_hamburger",
+    "name": "Raphael Hamburger",
+    "birth_year": 1981,
+    "path": "data/people/p_raphael_hamburger.json"
+  },
+  {
     "id": "p_raphael_jacoulot",
     "name": "Raphaël Jacoulot",
     "birth_year": 1971,
@@ -11379,8 +11385,8 @@
   },
   {
     "id": "p_raul",
-    "name": "Raúl",
-    "birth_year": 1977,
+    "name": "Raul",
+    "birth_year": 2003,
     "path": "data/people/p_raul.json"
   },
   {
@@ -11548,6 +11554,11 @@
     "name": "Raul Geydarov",
     "birth_year": 1990,
     "path": "data/people/p_raul_geydarov.json"
+  },
+  {
+    "id": "p_raul_gheba",
+    "name": "Raul Gheba",
+    "path": "data/people/p_raul_gheba.json"
   },
   {
     "id": "p_raul_grillo",
@@ -14192,6 +14203,11 @@
     "path": "data/people/p_rebecca_ray.json"
   },
   {
+    "id": "p_rebecca_richards",
+    "name": "Rebecca Richards",
+    "path": "data/people/p_rebecca_richards.json"
+  },
+  {
     "id": "p_rebecca_richman_cohen",
     "name": "Rebecca Richman Cohen",
     "path": "data/people/p_rebecca_richman_cohen.json"
@@ -16406,6 +16422,12 @@
     "path": "data/people/p_reinhold_messner.json"
   },
   {
+    "id": "p_reinhold_vorschneider",
+    "name": "Reinhold Vorschneider",
+    "birth_year": 1950,
+    "path": "data/people/p_reinhold_vorschneider.json"
+  },
+  {
     "id": "p_reinier_bulder",
     "name": "Reinier Bulder",
     "birth_year": 1953,
@@ -17616,6 +17638,12 @@
     "id": "p_renato_chocair",
     "name": "Renato Chocair",
     "path": "data/people/p_renato_chocair.json"
+  },
+  {
+    "id": "p_renato_cisneros",
+    "name": "Renato Cisneros",
+    "birth_year": 1976,
+    "path": "data/people/p_renato_cisneros.json"
   },
   {
     "id": "p_renato_corsetti",
@@ -23027,7 +23055,7 @@
   {
     "id": "p_richard_harris",
     "name": "Richard Harris",
-    "birth_year": 1930,
+    "birth_year": 1963,
     "path": "data/people/p_richard_harris.json"
   },
   {
@@ -29601,6 +29629,12 @@
     "path": "data/people/p_rob_mokaraka.json"
   },
   {
+    "id": "p_rob_moose",
+    "name": "Rob Moose",
+    "birth_year": 1982,
+    "path": "data/people/p_rob_moose.json"
+  },
+  {
     "id": "p_rob_moran",
     "name": "Rob Moran",
     "birth_year": 1963,
@@ -30389,7 +30423,7 @@
   {
     "id": "p_robert_b_simon",
     "name": "Robert B. Simon",
-    "birth_year": 1951,
+    "birth_year": 1952,
     "path": "data/people/p_robert_b_simon.json"
   },
   {
@@ -31899,6 +31933,12 @@
     "path": "data/people/p_robert_howie.json"
   },
   {
+    "id": "p_robert_hrutka",
+    "name": "Róbert Hrutka",
+    "birth_year": 1967,
+    "path": "data/people/p_robert_hrutka.json"
+  },
+  {
     "id": "p_robert_hughes",
     "name": "Robert Hughes",
     "birth_year": 1948,
@@ -32559,6 +32599,12 @@
     "path": "data/people/p_robert_levine.json"
   },
   {
+    "id": "p_robert_levon_been",
+    "name": "Robert Levon Been",
+    "birth_year": 1978,
+    "path": "data/people/p_robert_levon_been.json"
+  },
+  {
     "id": "p_robert_lieberman",
     "name": "Robert Lieberman",
     "birth_year": 1947,
@@ -32625,7 +32671,7 @@
   {
     "id": "p_robert_lorenz",
     "name": "Robert Lorenz",
-    "birth_year": 1999,
+    "birth_year": 1965,
     "path": "data/people/p_robert_lorenz.json"
   },
   {
@@ -34789,6 +34835,12 @@
     "name": "Roberto Benigni",
     "birth_year": 1952,
     "path": "data/people/p_roberto_benigni.json"
+  },
+  {
+    "id": "p_roberto_bentivegna",
+    "name": "Roberto Bentivegna",
+    "birth_year": 1982,
+    "path": "data/people/p_roberto_bentivegna.json"
   },
   {
     "id": "p_roberto_berliner",
@@ -39287,6 +39339,12 @@
     "path": "data/people/p_roger_willemsen.json"
   },
   {
+    "id": "p_roger_williams",
+    "name": "Roger Williams",
+    "birth_year": 1974,
+    "path": "data/people/p_roger_williams.json"
+  },
+  {
     "id": "p_roger_yanlam_lee",
     "name": "Roger Yan-Lam Lee",
     "birth_year": 1949,
@@ -41113,6 +41171,11 @@
     "path": "data/people/p_roman_horbyk.json"
   },
   {
+    "id": "p_roman_hryshchuk",
+    "name": "Roman Hryshchuk",
+    "path": "data/people/p_roman_hryshchuk.json"
+  },
+  {
     "id": "p_roman_izaias",
     "name": "Roman Izaias",
     "birth_year": 1967,
@@ -41350,6 +41413,12 @@
     "name": "Roman Madyanov",
     "birth_year": 1962,
     "path": "data/people/p_roman_madyanov.json"
+  },
+  {
+    "id": "p_roman_melnikov",
+    "name": "Roman Melnikov",
+    "birth_year": 1908,
+    "path": "data/people/p_roman_melnikov.json"
   },
   {
     "id": "p_roman_michalcik",
@@ -42214,6 +42283,12 @@
     "path": "data/people/p_romola_garai.json"
   },
   {
+    "id": "p_romolo_bugaro",
+    "name": "Romolo Bugaro",
+    "birth_year": 1961,
+    "path": "data/people/p_romolo_bugaro.json"
+  },
+  {
     "id": "p_romolo_guerreri",
     "name": "Romolo Guerreri",
     "birth_year": 1990,
@@ -42757,6 +42832,12 @@
     "name": "Ron Lynch",
     "birth_year": 1953,
     "path": "data/people/p_ron_lynch.json"
+  },
+  {
+    "id": "p_ron_mael",
+    "name": "Ron Mael",
+    "birth_year": 1945,
+    "path": "data/people/p_ron_mael.json"
   },
   {
     "id": "p_ron_mann",
@@ -47853,7 +47934,7 @@
   {
     "id": "p_ruby",
     "name": "Ruby",
-    "birth_year": 1972,
+    "birth_year": 1981,
     "path": "data/people/p_ruby.json"
   },
   {
@@ -48847,6 +48928,7 @@
   {
     "id": "p_rufus_wright",
     "name": "Rufus Wright",
+    "birth_year": 1974,
     "path": "data/people/p_rufus_wright.json"
   },
   {
@@ -50095,6 +50177,12 @@
     "id": "p_russell_levy",
     "name": "Russell Levy",
     "path": "data/people/p_russell_levy.json"
+  },
+  {
+    "id": "p_russell_mael",
+    "name": "Russell Mael",
+    "birth_year": 1948,
+    "path": "data/people/p_russell_mael.json"
   },
   {
     "id": "p_russell_means",
@@ -52491,7 +52579,7 @@
   {
     "id": "p_ryo_aoki",
     "name": "Ryō Aoki",
-    "birth_year": 1996,
+    "birth_year": 1994,
     "path": "data/people/p_ryo_aoki.json"
   },
   {
@@ -53019,7 +53107,7 @@
   {
     "id": "p_ryota_nakanishi",
     "name": "Ryōta Nakanishi",
-    "birth_year": 1981,
+    "birth_year": 1953,
     "path": "data/people/p_ryota_nakanishi.json"
   },
   {
