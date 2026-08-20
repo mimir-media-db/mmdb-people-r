@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rada_moskova",
+  "name": "Rada Moskova",
+  "external_ids": {
+    "wikidata": "Q12291924",
+    "imdb": "nm1001498"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1933
+}

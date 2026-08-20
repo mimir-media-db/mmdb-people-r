@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_roger_monk",
+  "name": "Roger Monk",
+  "external_ids": {
+    "wikidata": "Q101404277",
+    "imdb": "nm0598236"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1959
+}
