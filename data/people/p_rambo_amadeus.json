@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rambo_amadeus",
+  "name": "Rambo Amadeus",
+  "external_ids": {
+    "wikidata": "Q149074",
+    "imdb": "nm0991459"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1963
+}
