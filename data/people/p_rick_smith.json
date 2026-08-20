@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rick_smith",
+  "name": "Rick Smith",
+  "external_ids": {
+    "wikidata": "Q20878239",
+    "imdb": "nm1587208"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1959
+}
