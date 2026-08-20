@@ -1,12 +1,11 @@
 {
   "schema_version": 1,
   "id": "p_rade_markovic",
-  "name": "Rade Marković",
+  "name": "Rade Markovic",
   "external_ids": {
-    "wikidata": "Q299993",
-    "imdb": "nm0548589"
+    "wikidata": "Q61126165",
+    "imdb": "nm1070815"
   },
   "last_updated": "2026-08-20",
-  "birth_year": 1921,
-  "death_year": 2010
+  "birth_year": 1965
 }
