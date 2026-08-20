@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_russian_red",
+  "name": "Russian Red",
+  "external_ids": {
+    "wikidata": "Q2160424",
+    "imdb": "nm3023795"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1985
+}
