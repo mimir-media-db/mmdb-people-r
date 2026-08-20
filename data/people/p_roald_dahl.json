@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_roald_dahl",
+  "name": "Roald Dahl",
+  "external_ids": {
+    "wikidata": "Q25161",
+    "imdb": "nm0001094"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1916,
+  "death_year": 1990
+}

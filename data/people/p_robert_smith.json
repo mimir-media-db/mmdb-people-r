@@ -3,9 +3,10 @@
   "id": "p_robert_smith",
   "name": "Robert Smith",
   "external_ids": {
-    "wikidata": "Q491252",
-    "imdb": "nm0809733"
+    "wikidata": "Q19664222",
+    "imdb": "nm0809727"
   },
   "last_updated": "2026-08-20",
-  "birth_year": 1959
+  "birth_year": 1965,
+  "death_year": 2019
 }
