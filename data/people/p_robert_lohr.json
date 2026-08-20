@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "id": "p_robert_lohr",
-  "name": "Robert Lohr",
+  "name": "Robert Löhr",
   "external_ids": {
-    "wikidata": "Q1441328",
-    "imdb": "nm1019845"
+    "wikidata": "Q2158117",
+    "imdb": "nm0517282"
   },
   "last_updated": "2026-08-20",
-  "birth_year": 1967
+  "birth_year": 1973
 }
