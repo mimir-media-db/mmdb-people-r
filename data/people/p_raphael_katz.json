@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "id": "p_raphael_katz",
-  "name": "Raphaël Katz",
+  "name": "Raphael Katz",
   "external_ids": {
-    "wikidata": "Q3419468",
-    "imdb": "nm1994890"
+    "wikidata": "Q19974778"
   },
   "last_updated": "2026-08-20",
-  "birth_year": 1996
+  "birth_year": 1841,
+  "death_year": 1902
 }
