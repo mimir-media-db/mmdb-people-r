@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_robert_schumann",
+  "name": "Robert Schumann",
+  "external_ids": {
+    "wikidata": "Q7351",
+    "imdb": "nm0006281"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1810,
+  "death_year": 1856
+}
