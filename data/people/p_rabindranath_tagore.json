@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_rabindranath_tagore",
+  "name": "Rabindranath Tagore",
+  "external_ids": {
+    "wikidata": "Q7241",
+    "imdb": "nm0007173"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1861,
+  "death_year": 1941
+}

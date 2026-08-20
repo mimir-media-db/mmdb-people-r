@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_richard_band",
+  "name": "Richard Band",
+  "external_ids": {
+    "wikidata": "Q2314663",
+    "imdb": "nm0051659"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1953
+}

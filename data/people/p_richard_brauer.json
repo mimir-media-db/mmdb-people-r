@@ -3,8 +3,9 @@
   "id": "p_richard_brauer",
   "name": "Richard Brauer",
   "external_ids": {
-    "wikidata": "Q113669540",
-    "imdb": "nm1074662"
+    "wikidata": "Q65201"
   },
-  "last_updated": "2026-08-18"
+  "last_updated": "2026-08-20",
+  "birth_year": 1901,
+  "death_year": 1977
 }
