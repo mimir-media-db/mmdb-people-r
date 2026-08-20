@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rick_crom",
+  "name": "Rick Crom",
+  "external_ids": {
+    "wikidata": "Q7331316",
+    "imdb": "nm1138911"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1957
+}
