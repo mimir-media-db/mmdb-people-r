@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rob_moose",
+  "name": "Rob Moose",
+  "external_ids": {
+    "wikidata": "Q94694511",
+    "imdb": "nm3952410"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1982
+}
