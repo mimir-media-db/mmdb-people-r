@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rone",
+  "name": "Rone",
+  "external_ids": {
+    "wikidata": "Q3441742",
+    "imdb": "nm6220652"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1980
+}
