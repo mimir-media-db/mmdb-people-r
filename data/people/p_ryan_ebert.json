@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "p_ryan_ebert",
+  "name": "Ryan Ebert",
+  "external_ids": {
+    "wikidata": "Q123719516",
+    "imdb": "nm8998677"
+  },
+  "last_updated": "2026-08-20"
+}
