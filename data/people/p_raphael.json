@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "id": "p_raphael",
-  "name": "Raphaël",
+  "name": "Raphael",
   "external_ids": {
-    "wikidata": "Q955347",
-    "imdb": "nm1624329"
+    "wikidata": "Q561205",
+    "imdb": "nm0710687"
   },
   "last_updated": "2026-08-20",
-  "birth_year": 1975
+  "birth_year": 1943
 }

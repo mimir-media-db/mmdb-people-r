@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rita_redshoes",
+  "name": "Rita Redshoes",
+  "external_ids": {
+    "wikidata": "Q468826",
+    "imdb": "nm3250806"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1981
+}
