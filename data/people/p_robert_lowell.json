@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_robert_lowell",
+  "name": "Robert Lowell",
+  "external_ids": {
+    "wikidata": "Q981448",
+    "imdb": "nm6886929"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1917,
+  "death_year": 1977
+}
