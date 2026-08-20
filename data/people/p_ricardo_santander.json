@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_ricardo_santander",
+  "name": "Ricardo Santander",
+  "external_ids": {
+    "wikidata": "Q23641324",
+    "imdb": "nm1465879"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1970
+}
