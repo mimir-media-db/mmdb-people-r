@@ -1,10 +1,11 @@
 {
   "schema_version": 1,
   "id": "p_raul_garcia",
-  "name": "Raúl García",
+  "name": "Raul Garcia",
   "external_ids": {
-    "wikidata": "Q114899335",
-    "imdb": "nm0306455"
+    "wikidata": "Q28858393",
+    "imdb": "nm0306452"
   },
-  "last_updated": "2026-08-20"
+  "last_updated": "2026-08-20",
+  "birth_year": 1957
 }

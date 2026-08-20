@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_rebecca_swan",
+  "name": "Rebecca Swan",
+  "external_ids": {
+    "wikidata": "Q7437340",
+    "imdb": "nm1056756"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1969
+}
