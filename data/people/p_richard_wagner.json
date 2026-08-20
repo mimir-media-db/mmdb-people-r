@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "p_richard_wagner",
+  "name": "Richard Wagner",
+  "external_ids": {
+    "wikidata": "Q1511",
+    "imdb": "nm0003471"
+  },
+  "last_updated": "2026-08-20",
+  "birth_year": 1813,
+  "death_year": 1883
+}
