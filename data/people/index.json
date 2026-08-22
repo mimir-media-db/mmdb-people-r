@@ -5298,7 +5298,7 @@
   {
     "id": "p_raj_chakraborty",
     "name": "Raj Chakraborty",
-    "birth_year": 1975,
+    "birth_year": 1974,
     "path": "data/people/p_raj_chakraborty.json"
   },
   {
@@ -6590,6 +6590,11 @@
     "path": "data/people/p_rajyalakshmi.json"
   },
   {
+    "id": "p_rakan_mayasi",
+    "name": "Rakan Mayasi",
+    "path": "data/people/p_rakan_mayasi.json"
+  },
+  {
     "id": "p_rakan_rushaidat",
     "name": "Rakan Rushaidat",
     "birth_year": 1977,
@@ -6646,7 +6651,7 @@
   {
     "id": "p_rakesh_bedi",
     "name": "Rakesh Bedi",
-    "birth_year": 1955,
+    "birth_year": 1954,
     "path": "data/people/p_rakesh_bedi.json"
   },
   {
@@ -37896,6 +37901,12 @@
     "path": "data/people/p_rodolfo_espinosa.json"
   },
   {
+    "id": "p_rodolfo_espinoza_rios",
+    "name": "Rodolfo Espinoza Ríos",
+    "birth_year": 1981,
+    "path": "data/people/p_rodolfo_espinoza_rios.json"
+  },
+  {
     "id": "p_rodolfo_esquivel_lobaton",
     "name": "Rodolfo Esquivel Lobatón",
     "path": "data/people/p_rodolfo_esquivel_lobaton.json"
@@ -42359,6 +42370,12 @@
     "path": "data/people/p_romen_avinyan.json"
   },
   {
+    "id": "p_romeo_beckham",
+    "name": "Romeo Beckham",
+    "birth_year": 2002,
+    "path": "data/people/p_romeo_beckham.json"
+  },
+  {
     "id": "p_romeo_candido",
     "name": "Romeo Candido",
     "path": "data/people/p_romeo_candido.json"
@@ -45571,7 +45588,7 @@
   {
     "id": "p_roselyn_sanchez",
     "name": "Roselyn Sánchez",
-    "birth_year": 1973,
+    "birth_year": 1972,
     "path": "data/people/p_roselyn_sanchez.json"
   },
   {
@@ -48438,7 +48455,7 @@
   {
     "id": "p_ruby_stokes",
     "name": "Ruby Stokes",
-    "birth_year": 2000,
+    "birth_year": 1999,
     "path": "data/people/p_ruby_stokes.json"
   },
   {
