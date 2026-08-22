@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "p_romeo_beckham",
+  "name": "Romeo Beckham",
+  "external_ids": {
+    "wikidata": "Q20426763",
+    "imdb": "nm1548094"
+  },
+  "last_updated": "2026-08-22",
+  "birth_year": 2002
+}
